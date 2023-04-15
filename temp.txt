@@ -1,0 +1,106 @@
+
+
+
+
+
+
+Document
+
+
+
+
+
+
+            JavaScript assessment
+          
+
+
+
+        JavaScript assessment Q15/15
+      
+
+Which document method is not used to get a reference to a
+            DOM node?Which document method is not used to get a reference to a
+            DOM node?
+
+
+
+
+
+
+
+
+
+
+ document.getNode();document.getNode();
+
+
+
+
+
+
+
+
+ document.getElementsByClassName()document.getElementsByClassName()
+
+
+
+
+
+
+
+
+ document.querySelectorAll()document.querySelectorAll()
+
+
+
+
+
+
+
+
+ document.querySelector()document.querySelector()
+
+
+
+
+
+
+ Something wrong with this question? 
+
+              Give feedback
+            
+
+
+
+
+
+
+
+              Current value: 15
+            
+
+
+
+
+
+
+
+
+Q15/15
+
+01:22
+
+                90 seconds remaining
+              
+
+
+
+
+ View results 
+
+
+
+
+
+
